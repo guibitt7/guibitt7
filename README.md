@@ -36,6 +36,7 @@
 
 ### Other Knowledge:
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -47,6 +48,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS%20-0D1117?style=for-the-badge&logo=tailwindCSS&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-kotlin%20-0D1117?style=for-the-badge&logo=kotlin&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
