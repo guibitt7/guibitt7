@@ -47,10 +47,8 @@
 
   
 ### Studying in this moment:
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS%20-0D1117?style=for-the-badge&logo=tailwindCSS&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-kotlin%20-0D1117?style=for-the-badge&logo=kotlin&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter%20-0D1117?style=for-the-badge&logo=flutter&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
