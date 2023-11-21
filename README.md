@@ -48,6 +48,7 @@
   
 ### Studying in this moment:
 ![Flutter](https://img.shields.io/badge/-flutter%20-0D1117?style=for-the-badge&logo=flutter&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart%20-0D1117?style=for-the-badge&logo=Dart&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
 
   <div align="center">
