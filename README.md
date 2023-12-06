@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa5ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa5ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Bittencourt;I'm+19+years+old;I'm+from+Brasil,+PR;I+study+software+engineering+at+Campo+Real;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa5ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Bittencourt;I'm+20+years+old;I'm+from+Brasil,+PR;I+study+software+engineering+at+Campo+Real;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guibitt7&show_icons=true&count_private=true&hide_border=true&title_color=ffa5ff&icon_color=ffa5ff&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Bittencourt github stats" /> 
