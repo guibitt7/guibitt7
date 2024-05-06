@@ -34,6 +34,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![MacOs](https://img.shields.io/badge/-MacOs-0D1117?style=for-the-badge&logo=macos&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![PhpStorm](https://img.shields.io/badge/-phpstorm-0D1117?style=for-the-badge&logo=phpstorm&labelColor=0D1117)&nbsp;
+
 
 
 
@@ -43,14 +45,14 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter%20-0D1117?style=for-the-badge&logo=flutter&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart%20-0D1117?style=for-the-badge&logo=Dart&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-
+![Docker](https://img.shields.io/badge/-Docker%20-0D1117?style=for-the-badge&logo=Docker&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman%20-0D1117?style=for-the-badge&logo=Postman&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind%20-0D1117?style=for-the-badge&logo=Tailwind&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
 
 
   
 ### Studying in this moment:
-![Docker](https://img.shields.io/badge/-Docker%20-0D1117?style=for-the-badge&logo=Docker&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman%20-0D1117?style=for-the-badge&logo=Postman&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-next.js%20-0D1117?style=for-the-badge&logo=next.js&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
 
