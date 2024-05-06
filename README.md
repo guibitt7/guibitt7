@@ -47,7 +47,7 @@
 ![Dart](https://img.shields.io/badge/-Dart%20-0D1117?style=for-the-badge&logo=Dart&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker%20-0D1117?style=for-the-badge&logo=Docker&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman%20-0D1117?style=for-the-badge&logo=Postman&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind%20-0D1117?style=for-the-badge&logo=Tailwind&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS%20-0D1117?style=for-the-badge&logo=TailwindCSS&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
 
 
