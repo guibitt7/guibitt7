@@ -9,7 +9,7 @@
 
 
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dsq8wmtxpqd87at48fbb2rgfb&unique={true|1|on|yes})
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guibitt7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
