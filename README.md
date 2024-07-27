@@ -21,33 +21,33 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
+<!--   <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  /> -->
+<!--   <img width="12" /> -->
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  /> -->
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+<!--   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  /> -->
 </div>
 
 ###
