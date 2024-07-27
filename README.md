@@ -23,7 +23,7 @@
   <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  /> -->
 <!--   <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  /> -->
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  /> 
   <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  /> -->
 <!--   <img width="12" /> -->
