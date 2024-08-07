@@ -53,19 +53,16 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"  />
 </div>
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=guibitt7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=guibitt7&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guibitt7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/dsq8wmtxpqd87at48fbb2rgfb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dsq8wmtxpqd87at48fbb2rgfb&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
+<h2 align="left">I had to use a different GitHub account in my previous job.</h1>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=guihph&theme=tokyonight&hide_border=false)<br/>
+
