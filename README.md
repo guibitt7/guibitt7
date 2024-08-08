@@ -61,8 +61,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guibitt7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-###
-<h2 align="left">I had to use a different GitHub account in my previous job.</h1>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=guihph&theme=tokyonight&hide_border=false)<br/>
-
