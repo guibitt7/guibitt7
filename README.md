@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineering student in my final year of university.</p>
+<p align="left">I'm a Software Engineer at the moment working with Python and RPA</p>
 
 ###
 
