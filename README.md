@@ -7,6 +7,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
@@ -29,6 +31,8 @@
 <!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  /> -->
 <!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
@@ -47,7 +51,7 @@
 <!--   <img width="12" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  /> -->
 <!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
