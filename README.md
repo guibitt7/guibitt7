@@ -9,24 +9,24 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /> -->
+<!--   <img width="12" /> -->
 <!--   <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  /> -->
 <!--   <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  /> 
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />  -->
+<!--   <img width="12" /> -->
 <!--   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  /> -->
 <!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
@@ -39,19 +39,19 @@
   <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  /> -->
 <!--   <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  /> -->
+<!--   <img width="12" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  /> -->
 <!--   <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  /> -->
+<!--   <img width="12" /> -->
 <!--   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  /> -->
 <!--   <img width="12" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> -->
 <!--   <img width="12" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  /> -->
 <!--   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> -->
 </div>
 
 ###
