@@ -7,51 +7,42 @@
 ###
 
 <div align="left">
+  <!-- Linguagens e Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  /> -->
-<!--   <img width="12" /> -->
+  <!-- Mascote do Go (Gopher) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" alt="go gopher"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  /> -->
-<!--   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />  -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  /> -->
-<!--   <img width="12" /> -->
+  
+  <!-- Bancos de Dados -->
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  /> -->
-<!--   <img width="12" /> -->
+  
+  <!-- Infra e Orquestração -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> -->
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo"  />
+  <img width="12" />
+  <!-- Mascote do Traefik (Hamster) -->
+  <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png" height="45" alt="traefik mascot"  />
+  <img width="12" />
+  
+  <!-- Observabilidade e CI/CD -->
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
 </div>
 
 ###
@@ -59,9 +50,3 @@
 <div align="left">
   <img height="200" src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"  />
 </div>
-
-###
-![](https://github-readme-streak-stats.herokuapp.com/?user=guibitt7&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guibitt7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
