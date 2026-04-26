@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer at the moment working with Python and RPA</p>
+<p align="left">I'm a Software Engineer at the moment working at Sicredi/p>
 
 ###
 
