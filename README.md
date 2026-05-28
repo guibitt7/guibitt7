@@ -31,10 +31,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo"  />
   <img width="12" />
   <!-- Mascote do Traefik (Hamster) -->
-  <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png" height="45" alt="traefik mascot"  />
+  <!-- <img src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png" height="45" alt="traefik mascot"  />
   <img width="12" />
   
   <!-- Observabilidade e CI/CD -->
@@ -50,3 +50,4 @@
 <div align="left">
   <img height="200" src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif"  />
 </div>
+ 
